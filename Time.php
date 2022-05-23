@@ -1,1 +1,3 @@
-<?php echo date("Y-m-d-H-i-s"); ?>
+<?php  
+$date = date('d.m.Y. H:i');
+echo date;
